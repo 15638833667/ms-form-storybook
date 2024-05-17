@@ -1,7 +1,7 @@
 import './scss/global.scss'
 import type { App } from 'vue'
 
-import MsButton from './msButton'
+import MsButton from './MsButton'
 
 // 所有组件列表
 const components = [
