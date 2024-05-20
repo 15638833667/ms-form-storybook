@@ -31,7 +31,7 @@ export const Primary: Story = {
     primary: true,
     label: 'Button',
     size: 'small',
-    backgroundColor: '#db3b3b'
+    backgroundColor: 'null'
   }
 }
 
